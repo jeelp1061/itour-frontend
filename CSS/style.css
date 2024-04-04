@@ -1,0 +1,37 @@
+span{
+    font-weight: bold;
+}
+li.nav-wrapper:hover{
+    /* display: block; */
+    box-sizing: content-box;
+    /* display: inline; */
+    background-color: rgb(2, 146, 0);
+}
+.nav-wrapper{
+    background-color: #250000;
+}
+.slider .indicators .indicator-item.active{
+    background-color: #170400;
+}
+.move {
+    margin-top: 65px;
+    margin-bottom: 20px;
+}
+.parallax-container {
+    min-height: 380px;
+    height: auto;
+}
+.icon-coffee {
+    color: #6f4037;
+}
+
+.footer-one {
+    background: #2d40ba;
+}
+.footer-two{
+    background: #111b5a;
+}
+.body.section{
+    background: #6f4037;
+}
+#success_message{ display: none;}
